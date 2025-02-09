@@ -1,5 +1,5 @@
 {
-  "name": "greenchef-loc",
+  "name": "greenchef-status",
   "version": "1.0.0",
   "description": "Green Chef local Node app",
   "main": "app.js",
